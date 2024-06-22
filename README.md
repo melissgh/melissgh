@@ -21,6 +21,7 @@
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 
 - **Data Science :**
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
