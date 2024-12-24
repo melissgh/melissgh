@@ -44,11 +44,6 @@ I am a computer science student passionate about artificial intelligence and dat
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 🎓 Education
-
-- **Higher Cycle, 1st Year Common Core** at ESTIN, 2023-2024
-- **Preparatory Cycle** at ESTIN, 2021-2023
-
 ## 📜 Certifications
 
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/400626643547a3000f0cba6b32327de2) - Coursera  
