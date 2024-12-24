@@ -44,26 +44,6 @@ I am a computer science student passionate about artificial intelligence and dat
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 🚀 Projects
-
-### 1. [Dental Clinic Management](https://github.com/melissgh/Gestion-d-un-cabinet-dentaire_2CP)
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, MongoDB
-
-### 2. [Jewelry E-commerce](https://github.com/melissgh/Jewerly-website-bdd-project)
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, SQL
-
-### 3. [Lawyer Directory - MouhamiDZ](https://github.com/melissgh/Annuaire-avocats-mouhami-dz)
-- **Frontend:** React.js
-- **Backend:** Django, SQLite
-
-### 4. [Mini Applications for AI](https://github.com/melissgh/CSP_project)
-- **Language:** Python
-  - Veterinary expert system for diagnosis
-  - Shortest path calculation
-  - Timetable generation with CSP
-
 ## 🎓 Education
 
 - **Higher Cycle, 1st Year Common Core** at ESTIN, 2023-2024
@@ -77,7 +57,7 @@ I am a computer science student passionate about artificial intelligence and dat
 
 ## 💼 Experience
 
-- **Technical Manager** at School of AI, 2023-2024  
+- **Technical Manager** at School of AI (currently)  
 - **Backend Node.js Mentor** at GDSC School, 2023-2024  
 - **Project Manager** for GDSC club Meetups, 2023-2024  
 - **Intern at Very Net:** Information Systems and VPN Configuration  
