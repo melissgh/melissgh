@@ -2,8 +2,6 @@
 
 I am a computer science student passionate about artificial intelligence and data science. I am always looking for new opportunities to enhance my skills and explore innovative projects.
 
-## 📊 Statistics
-
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissgh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissgh&layout=compact&theme=radical)
 ![Commit Activity Graph](https://streak-stats.demolab.com/?user=melissgh&theme=radical)
