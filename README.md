@@ -1,4 +1,4 @@
-Mélissa GHEMARI | AI & DS student
+# Mélissa GHEMARI | AI & DS student
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissgh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissgh&layout=compact&theme=radical)
