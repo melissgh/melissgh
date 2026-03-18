@@ -1,6 +1,6 @@
-# I'm Melissa Ghemari
+# I'm Mélissa GHEMARI
 
-I am a computer science student passionate about artificial intelligence and data science. I am always looking for new opportunities to enhance my skills and explore innovative projects.
+I am an AI and Data Science student. I am always looking for new opportunities to enhance my skills and explore innovative projects.
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissgh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissgh&layout=compact&theme=radical)
@@ -13,14 +13,15 @@ I am a computer science student passionate about artificial intelligence and dat
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/37329c5ee59c2ad97559490976787423) - Coursera  
 
 ## Experience
-
-- **Technical Manager** at School of AI (currently)  
-- **Backend Node.js Mentor** at GDSC School, 2023-2024  
-- **Project Manager** for GDSC club Meetups, 2023-2024  
-- **Intern at Very Net:** Information Systems and VPN Configuration  
-- **Data Science Intern at CodSoft**
+- **AI Research Intern** at **LAAS-CNRS**, Toulouse, France (Currently)
+- **AI Intern** at **CERIST Research Center**, Algiers, Algeria (2025-2026)
+- **Technical Manager** at School of AI (2024-2025)  
+- **Backend Node.js Mentor** at GDSC School (2023-2024)  
+- **Project Manager** for GDSC club Meetups (2023-2024)  
+- **Intern at Very Net:** Information Systems and VPN Configuration, Bejaia, Algeria (2023-2024)  
+- **Data Science Intern at CodSoft**, remotely (2023-2024)
 
 ## Contact
 
-- **Email:** m_ghemari@estin.dz  
-- **LinkedIn:** [Melissa Ghemari](https://www.linkedin.com/in/m%C3%A8lissa-ghemari-5223a8235/)
+- **Email:** melissaghemari7@gmail.com  
+- **LinkedIn:** [Mélissa Ghemari](https://www.linkedin.com/in/m%C3%A8lissa-ghemari-5223a8235/)
